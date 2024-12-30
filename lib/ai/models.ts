@@ -25,7 +25,7 @@ export const models: Array<Model> = [
   },
   {
     id: "o1",
-    label: "O1",
+    label: "o1",
     apiIdentifier: "o1",
     description: "Advanced reasoning for complex tasks",
     provider: "openai",
